@@ -1,0 +1,8 @@
+up = 51
+left = 156
+right = 131
+numR - numL = -25
+up = 70
+left = 75
+right = 234
+numR - numL = 159
